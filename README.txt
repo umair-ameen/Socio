@@ -1,0 +1,2 @@
+I wanted to create social bars for myself. So created some using html/css, fontawesome then came and idea to put them on github for future use.
+Anyone can use these social buttons on their website by copying the code. 
